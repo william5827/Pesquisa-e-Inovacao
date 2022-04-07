@@ -1,2 +1,2 @@
-# Pesquisa-e-Inovacao
-Repositório para exercicios de P.I
+# Exercicios Pesquisa e Inovação
+Atividade da aula 01_
